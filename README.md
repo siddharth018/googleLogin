@@ -1,7 +1,12 @@
-https://realprogrammer.in/ajax-autocomplete-search-in-laravel-8/
+<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.41.35%20PM.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravel8autocomplete/master/autocomplete.png" width="100%">
-</p>
+
+<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.41.23%20PM.png" width="100%">
+
+
+<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.23.23%20PM.png" width="100%">
+
+Read More: http://realprogrammer.in/laravel-8-socialite-login-with-google/
 
 <h2>Step 1: download in your system.</h2>  
 
@@ -33,6 +38,17 @@ git clone https://github.com/siddharth018/googleLogin.git
 <h2>Step 5: key generate</h2> 
 
     php artisan key:generate
+
+ <h2>Step 5: key generate</h2> 
+
+    php artisan key:generate
+
+<h2> Create Google App for authentication</h2>
+
+	Create a project: https://console.developers.google.com/projectcreate
+	Create credentials: https://console.developers.google.com/apis/credentials
+
+<h2>Put your code inside of config/services.php</h2>
 
 <h2>Step 7: Run server</h2>  
 
